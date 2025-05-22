@@ -1,0 +1,384 @@
+{
+  "perfumes": [
+    {
+      "id": 1,
+      "name": "Inspirado Sauvage Dior",
+      "price": 18.00,
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "category": "masculino",
+      "description": "Fragancia fresca y amaderada con notas de bergamota y pimienta",
+      "longDescription": "Una interpretación moderna de la elegancia masculina. Sauvage combina notas frescas de bergamota con la calidez de la pimienta, creando una fragancia que evoca la libertad y la naturaleza salvaje. Perfecta para el hombre moderno que busca una fragancia distintiva y memorable.",
+      "notes": ["Bergamota", "Pimienta", "Sándalo", "Cedro"],
+      "stock": 15,
+      "featured": true,
+      "rating": 4.8,
+      "gallery": [
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+        "https://i0.wp.com/www.baratazo.com/baratazo/wp-content/uploads/2022/05/original-23.jpeg?fit=1013%2C1013&ssl=1"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Inspirado Eros Versace",
+      "price": 18.00,
+      "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "category": "masculino",
+      "description": "Seductor y apasionado con notas de menta y vainilla",
+      "longDescription": "Eros representa el poder seductor del dios del amor. Esta fragancia combina la frescura de la menta italiana con la sensualidad de la vainilla y la masculinidad del cedro. Una fragancia que despierta los sentidos y conquista corazones.",
+      "notes": ["Menta", "Vainilla", "Cedro", "Geranio"],
+      "stock": 12,
+      "featured": true,
+      "rating": 4.7,
+      "gallery": [
+        "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Inspirado Le Beau Le Parfum Jean Paul Gaultier",
+      "price": 18.00,
+      "image": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "category": "masculino",
+      "description": "Elegante y sofisticado con notas de coco y sándalo",
+      "longDescription": "La elegancia francesa en su máxima expresión. Le Beau combina la exótica dulzura del coco con la calidez del sándalo, creando una fragancia única que evoca el verano eterno y la sofisticación parisina.",
+      "notes": ["Coco", "Sándalo", "Iris", "Tonka"],
+      "stock": 8,
+      "featured": true,
+      "rating": 4.6,
+      "gallery": [
+        "https://images.unsplash.com/photo-1563170351-be82bc888aa4?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mini Perfumero Decant 5ML",
+      "price": 2.94,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "category": "unisex",
+      "description": "Perfecto para probar nuevas fragancias",
+      "longDescription": "El formato perfecto para descubrir tu próxima fragancia favorita. Nuestros decants de 5ml te permiten experimentar con diferentes aromas sin compromiso. Ideal para viajes o para quienes les gusta variar su fragancia según la ocasión.",
+      "notes": ["Variadas según fragancia"],
+      "stock": 25,
+      "featured": false,
+      "rating": 4.5,
+      "gallery": [
+        "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Feromona Black",
+      "price": 18.00,
+      "originalPrice": 39.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKauG1mG2Ef8-199z-GsRcsvpWCLgwV1PszQ&s",
+      "category": "masculino",
+      "description": "Despierta el deseo con notas intensas y sensuales",
+      "longDescription": "Una fragancia diseñada para conquistar. Feromona Black combina ingredientes afrodisíacos naturales con notas intensas que despiertan el instinto más primitivo. Su fórmula única está pensada para potenciar tu magnetismo natural.",
+      "notes": ["Ámbar Negro", "Almizcle", "Pachulí", "Vainilla"],
+      "stock": 6,
+      "isOffer": true,
+      "featured": true,
+      "rating": 4.9,
+      "gallery": [
+        "https://aromasdeluxe.net/cdn/shop/files/FEROMONAAZULCAJA_1.jpg?v=1714536465&width=1080",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI79IApiwknGU2Mc201z52kdOEpe2McJPvCQ&s"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Inspirado Black Opium YSL",
+      "price": 18.00,
+      "image": "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "category": "femenino",
+      "description": "Delicada y floral con notas de café y vainilla",
+      "longDescription": "La adicción hecha fragancia. Black Opium es una fragancia oriental floral que combina la energía del café negro con la sensualidad de la flor blanca y la dulzura de la vainilla. Para la mujer moderna, audaz y seductora.",
+      "notes": ["Café Negro", "Flor Blanca", "Vainilla", "Cedro"],
+      "stock": 10,
+      "featured": true,
+      "rating": 4.8,
+      "gallery": [
+        "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Inspirado Good Girl Carolina Herrera",
+      "price": 18.00,
+      "image": "https://i5.walmartimages.com/seo/Carolina-Herrera-Good-Girl-Eau-de-Parfum-Perfume-for-Women-2-7-Oz_8750cf42-39ed-4593-a7e6-bbfdef004c83.121477cfd442ebfdcab720fb00a32f52.jpeg",
+      "category": "femenino",
+      "description": "Intensa y duradera con notas de jazmín y cacao",
+      "longDescription": "La dualidad femenina en una botella. Good Girl representa a la mujer empoderada que abraza tanto su lado dulce como su lado rebelde. Jazmín y cacao se fusionan en una fragancia que es tanto elegante como provocativa.",
+      "notes": ["Jazmín", "Cacao", "Almendra", "Café"],
+      "stock": 7,
+      "featured": true,
+      "rating": 4.7,
+      "gallery": [
+        "https://i5.walmartimages.com/seo/Carolina-Herrera-Good-Girl-Eau-de-Parfum-Perfume-for-Women-2-7-Oz_8750cf42-39ed-4593-a7e6-bbfdef004c83.121477cfd442ebfdcab720fb00a32f52.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Splash Refrescante Victoria's Secret",
+      "price": 12.00,
+      "image": "https://i0.wp.com/www.baratazo.com/baratazo/wp-content/uploads/2022/11/vs-rush-splash.webp?fit=1754%2C1754&ssl=1",
+      "category": "femenino",
+      "description": "Fresco y revitalizante con notas cítricas",
+      "longDescription": "La frescura que tu piel necesita. Nuestro splash refrescante combina notas cítricas vibrantes con toques florales suaves. Perfecto para el día a día, después del ejercicio o cuando necesites una dosis extra de frescura.",
+      "notes": ["Cítricos", "Flores Blancas", "Musgo", "Cedro"],
+      "stock": 20,
+      "featured": false,
+      "rating": 4.4,
+      "gallery": [
+        "https://i0.wp.com/www.baratazo.com/baratazo/wp-content/uploads/2022/11/vs-rush-splash.webp?fit=1754%2C1754&ssl=1",
+        "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/172228/112047178527_OF_F.jpg?v=637968604850300000"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Inspirado La Vie Est Belle Lancôme",
+      "price": 18.00,
+      "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "category": "femenino",
+      "description": "Dulce y envolvente con notas de iris y pralinés",
+      "longDescription": "La vida es bella, y esta fragancia lo demuestra. Una creación gourmand que combina la elegancia del iris con la dulzura de los pralinés y la frescura de la pera. Una invitación a vivir la vida con alegría y optimismo.",
+      "notes": ["Iris", "Pralinés", "Pera", "Vainilla"],
+      "stock": 9,
+      "featured": true,
+      "rating": 4.8,
+      "gallery": [
+        "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Inspirado Acqua di Gio Armani",
+      "price": 18.00,
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "category": "masculino",
+      "description": "Fresco marino con notas acuáticas y cítricas",
+      "longDescription": "La brisa del mediterráneo capturada en una botella. Acqua di Gio evoca la pureza del agua de mar con notas acuáticas frescas y cítricas vibrantes. Una fragancia atemporal para el hombre que aprecia la elegancia natural.",
+      "notes": ["Notas Acuáticas", "Bergamota", "Neroli", "Cedro"],
+      "stock": 11,
+      "featured": true,
+      "rating": 4.6,
+      "gallery": [
+        "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Crema Corporal Victoria's Secret Love",
+      "price": 15.00,
+      "image": "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/186039/111910611340_OF_F.jpg?v=638417058947230000",
+      "category": "femenino",
+      "description": "Hidratación intensa con fragancia romántica",
+      "longDescription": "Nutre tu piel mientras la envuelves en una fragancia irresistible. Nuestra crema corporal Love combina ingredientes hidratantes premium con notas florales románticas que perduran suavemente en tu piel durante todo el día.",
+      "notes": ["Rosa", "Peonía", "Almizcle Suave", "Vainilla"],
+      "stock": 18,
+      "featured": false,
+      "rating": 4.5,
+      "type": "crema",
+      "gallery": [
+        "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/186039/111910611340_OF_F.jpg?v=638417058947230000"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Crema Corporal Victoria's Secret Bombshell",
+      "price": 15.00,
+      "image": "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/186029/112047188527_OF_F.jpg?v=638417058923900000",
+      "category": "femenino",
+      "description": "Hidratación lujosa con la icónica fragancia Bombshell",
+      "longDescription": "La crema corporal más deseada con la fragancia Bombshell. Enriquecida con manteca de karité y aceites naturales, proporciona hidratación profunda mientras deja tu piel con el aroma seductor que define a la mujer Bombshell.",
+      "notes": ["Peonía", "Vainilla", "Freesia", "Sándalo"],
+      "stock": 22,
+      "featured": true,
+      "rating": 4.7,
+      "type": "crema",
+      "gallery": [
+        "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/186029/112047188527_OF_F.jpg?v=638417058923900000"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Crema Corporal Victoria's Secret Bare",
+      "price": 15.00,
+      "image": "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/189022/112285073336_OM_F-2048x2048.jpg?v=638560783637000000",
+      "category": "femenino",
+      "description": "Hidratación natural con fragancia suave y elegante",
+      "longDescription": "Para la mujer que prefiere la elegancia sutil. Bare combina hidratación profunda con una fragancia delicada y sofisticada. Su fórmula ligera se absorbe rápidamente, dejando la piel suave, sedosa y delicadamente perfumada.",
+      "notes": ["Flor de Cerezo", "Sándalo Blanco", "Almizcle", "Rosa"],
+      "stock": 16,
+      "featured": false,
+      "rating": 4.6,
+      "type": "crema",
+      "gallery": [
+        "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/189022/112285073336_OM_F-2048x2048.jpg?v=638560783637000000"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Crema Corporal Victoria's Secret Pure Seduction",
+      "price": 15.00,
+      "image": "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/166816/111893892457_OF_F.jpg?v=638757456523600000",
+      "category": "femenino",
+      "description": "Seducción pura con hidratación de lujo",
+      "longDescription": "La combinación perfecta de seducción y cuidado. Pure Seduction ofrece una hidratación intensa mientras envuelve tu piel con notas florales y frutales que despiertan los sentidos. Una experiencia sensorial completa.",
+      "notes": ["Ciruela Roja", "Freesia", "Orquídea", "Sándalo"],
+      "stock": 13,
+      "featured": true,
+      "rating": 4.8,
+      "type": "crema",
+      "gallery": [
+        "https://victoriassecretbeautyecu.vtexassets.com/arquivos/ids/166816/111893892457_OF_F.jpg?v=638757456523600000"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Colección Victoria's Secret Paradise",
+      "price": 35.00,
+      "originalPrice": 45.00,
+      "image": "https://i.pinimg.com/736x/f7/f4/cc/f7f4ccf5f2c0ced91b3a11d59834e984.jpg",
+      "category": "femenino",
+      "description": "Set completo: Splash + Crema + Mini Perfume",
+      "longDescription": "Escápate al paraíso con esta colección completa. Incluye splash corporal, crema hidratante y mini perfume, todos con la fragancia tropical Paradise. Notas de coco, vainilla y flores exóticas te transportarán a una playa paradisíaca.",
+      "notes": ["Coco", "Vainilla", "Flores Tropicales", "Sándalo"],
+      "stock": 8,
+      "featured": true,
+      "rating": 4.9,
+      "isOffer": true,
+      "type": "set",
+      "gallery": [
+        "https://i.pinimg.com/736x/f7/f4/cc/f7f4ccf5f2c0ced91b3a11d59834e984.jpg",
+        "https://sp.victoriassecret.com/p/874x1165/png/zz/24/08/23/02/112484166150_alt.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Victoria's Secret Very Sexy",
+      "price": 22.00,
+      "image": "https://i.ebayimg.com/images/g/OgYAAeSwKphn-yOD/s-l1200.jpg",
+      "category": "femenino",
+      "description": "La fragancia más seductora y atrevida",
+      "longDescription": "Para la mujer que no tiene miedo de mostrar su lado más seductor. Very Sexy combina notas afrutadas con florales intensos y un fondo cálido y sensual. Una fragancia que deja huella y despierta pasiones.",
+      "notes": ["Blackberry", "Clementina", "Peonía", "Vainilla"],
+      "stock": 12,
+      "featured": true,
+      "rating": 4.7,
+      "gallery": [
+        "https://i.ebayimg.com/images/g/OgYAAeSwKphn-yOD/s-l1200.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Inspirado Gucci Flora Gorgeous Jasmine",
+      "price": 28.00,
+      "image": "https://www.aromasyrecuerdos.com/wp-content/uploads/2022/11/GUCCI-FLORA-GORGEOUS-JASMINE-Eau-de-Parfum-100ml.jpg",
+      "category": "nicho",
+      "description": "Elegancia floral italiana con jazmín premium y notas orientales",
+      "longDescription": "Una interpretación moderna de la feminidad italiana. Flora Gorgeous Jasmine combina el jazmín más puro con notas orientales sofisticadas, creando una fragancia que celebra la belleza natural de la mujer. Cada aplicación es una declaración de elegancia y distinción.",
+      "notes": ["Jazmín de Sambac", "Pera Asiática", "Frangipani", "Sándalo"],
+      "stock": 8,
+      "featured": true,
+      "rating": 4.9,
+      "gallery": [
+        "https://www.aromasyrecuerdos.com/wp-content/uploads/2022/11/GUCCI-FLORA-GORGEOUS-JASMINE-Eau-de-Parfum-100ml.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOyqr5kWACrYlsPSCVcwZMCZP6ZMZQ_vcHw&s"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Inspirado Gucci Bloom",
+      "price": 28.00,
+      "image": "https://static.sweetcare.com/img/prd/488/v-638200522257100301/gucci-011328gc_01.jpg",
+      "category": "nicho",
+      "description": "Bouquet floral contemporáneo con tuberosa y jazmín",
+      "longDescription": "Un jardín secreto capturado en una botella. Gucci Bloom es una fragancia floral contemporánea que celebra el poder de la feminidad. La tuberosa y el jazmín se entrelazan con la dulzura del ranúnculo, creando una composición única que florece en la piel.",
+      "notes": ["Tuberosa", "Jazmín", "Ranúnculo", "Hojas Verdes"],
+      "stock": 10,
+      "featured": true,
+      "rating": 4.8,
+      "gallery": [
+        "https://static.sweetcare.com/img/prd/488/v-638200522257100301/gucci-011328gc_01.jpg",
+        "https://m.media-amazon.com/images/I/51leX0xJZTL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Inspirado Gucci Guilty Absolute Pour Homme",
+      "price": 30.00,
+      "image": "https://www.magu.ec/wp-content/uploads/2021/03/gucci-guility-absolute-magu-ecuador.jpg",
+      "category": "nicho",
+      "description": "Intensidad masculina con cuero y pachulí para el hombre audaz",
+      "longDescription": "La rebeldía refinada hecha fragancia. Guilty Absolute Pour Homme es una declaración de masculinidad sin límites. El cuero y el pachulí se combinan con notas amaderadas para crear una fragancia intensa y provocativa que desafía las convenciones.",
+      "notes": ["Cuero", "Pachulí", "Madera de Cedro", "Nardo"],
+      "stock": 6,
+      "featured": true,
+      "rating": 4.7,
+      "gallery": [
+        "https://www.magu.ec/wp-content/uploads/2021/03/gucci-guility-absolute-magu-ecuador.jpg",
+        "https://cdn.salla.sa/DGdDlG/43ec015a-9805-4858-8e91-987467a37d90-1000x1000-RAnDbPbgNiPfytgJ4MUkqbi35Vu8Xklnr0qeKE8h.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Inspirado Gucci Guilty Pour Femme",
+      "price": 28.00,
+      "image": "https://m.media-amazon.com/images/I/61nrPGUBG5L._SL1000_.jpg",
+      "category": "nicho",
+      "description": "Seducción italiana con mandarina y lirio para la mujer libre",
+      "longDescription": "La libertad de ser auténtica. Guilty Pour Femme celebra a la mujer que vive sin límites. La mandarina rosada se fusiona con el lirio y la dulzura del pachulí, creando una fragancia que es tanto inocente como provocativa, perfecta para la mujer moderna.",
+      "notes": ["Mandarina Rosada", "Lirio", "Pachulí", "Ámbar"],
+      "stock": 9,
+      "featured": true,
+      "rating": 4.8,
+      "gallery": [
+        "https://m.media-amazon.com/images/I/61nrPGUBG5L._SL1000_.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Inspirado Gucci Guilty Elixir de Parfum Pour Homme",
+      "price": 32.00,
+      "originalPrice": 45.00,
+      "image": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1690978676/765589_99999_0099_001_100_0000_Light-gucci-guilty-elixir-de-parfum-pour-homme-60ml.jpg",
+      "category": "nicho",
+      "description": "La versión más intensa y exclusiva de Guilty con notas orientales",
+      "longDescription": "El elixir de la seducción masculina. Esta versión concentrada de Guilty lleva la intensidad al máximo con notas orientales profundas y especias exóticas. Una fragancia para el hombre que no pasa desapercibido y que abraza su lado más magnético y misterioso.",
+      "notes": ["Pimiento Rosa", "Lavanda Aromática", "Pachulí", "Cuero"],
+      "stock": 5,
+      "featured": true,
+      "rating": 4.9,
+      "isOffer": true,
+      "gallery": [
+        "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1690978676/765589_99999_0099_001_100_0000_Light-gucci-guilty-elixir-de-parfum-pour-homme-60ml.jpg"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "masculino",
+      "name": "Perfumes de Hombre",
+      "image": "https://okperfumes.com/cdn/shop/articles/hermosa-botella-perfume-sobre-fondo-marmol-negro_1.jpg?v=1680858638",
+      "icon": "👨"
+    },
+    {
+      "id": "femenino",
+      "name": "Perfumes de Mujer",
+      "image": "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "icon": "👩"
+    },
+    {
+      "id": "unisex",
+      "name": "Perfumes Unisex",
+      "image": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "icon": "🌟"
+    },
+    {
+      "id": "nicho",
+      "name": "Perfumes de Nicho",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "icon": "💎"
+    }
+  ]
+}
