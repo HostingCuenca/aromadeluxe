@@ -134,26 +134,26 @@ const Footer = () => {
                 </div>
 
                 {/* Newsletter Section */}
-                <div className="border-t border-gray-800 mt-8 sm:mt-12 pt-6 sm:pt-8">
-                    <div className="text-center mb-6 sm:mb-8">
-                        <h4 className="text-xl sm:text-2xl font-bold text-white mb-2 sm:mb-4">
-                            ¡No te pierdas nuestras ofertas exclusivas!
-                        </h4>
-                        <p className="text-gray-400 text-sm sm:text-base mb-4 sm:mb-6">
-                            Suscríbete y recibe descuentos especiales en tu email
-                        </p>
-                        <div className="max-w-md mx-auto flex flex-col sm:flex-row gap-3 sm:gap-4">
-                            <input
-                                type="email"
-                                placeholder="tu@email.com"
-                                className="flex-1 px-4 sm:px-6 py-3 sm:py-4 rounded-full border-0 focus:ring-4 focus:ring-pink-500/30 text-sm sm:text-base text-gray-900"
-                            />
-                            <button className="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full font-bold transition-all duration-300 shadow-lg hover:shadow-xl text-sm sm:text-base transform hover:scale-105">
-                                Suscribirse
-                            </button>
-                        </div>
-                    </div>
-                </div>
+                {/*<div className="border-t border-gray-800 mt-8 sm:mt-12 pt-6 sm:pt-8">*/}
+                {/*    <div className="text-center mb-6 sm:mb-8">*/}
+                {/*        <h4 className="text-xl sm:text-2xl font-bold text-white mb-2 sm:mb-4">*/}
+                {/*            ¡No te pierdas nuestras ofertas exclusivas!*/}
+                {/*        </h4>*/}
+                {/*        <p className="text-gray-400 text-sm sm:text-base mb-4 sm:mb-6">*/}
+                {/*            Suscríbete y recibe descuentos especiales en tu email*/}
+                {/*        </p>*/}
+                {/*        <div className="max-w-md mx-auto flex flex-col sm:flex-row gap-3 sm:gap-4">*/}
+                {/*            <input*/}
+                {/*                type="email"*/}
+                {/*                placeholder="tu@email.com"*/}
+                {/*                className="flex-1 px-4 sm:px-6 py-3 sm:py-4 rounded-full border-0 focus:ring-4 focus:ring-pink-500/30 text-sm sm:text-base text-gray-900"*/}
+                {/*            />*/}
+                {/*            <button className="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full font-bold transition-all duration-300 shadow-lg hover:shadow-xl text-sm sm:text-base transform hover:scale-105">*/}
+                {/*                Suscribirse*/}
+                {/*            </button>*/}
+                {/*        </div>*/}
+                {/*    </div>*/}
+                {/*</div>*/}
 
                 {/* Copyright */}
                 <div className="border-t border-gray-800 mt-6 sm:mt-8 pt-6 sm:pt-8 text-center text-gray-400">
